@@ -123,9 +123,15 @@ const CoursePage = () => {
                       {currentLesson.completed ? 'Concluída' : 'Marcar como concluída'}
                     </Button>
                   </div>
-                  <p className="text-gray-300 leading-relaxed">
-                    {currentLesson.description}
-                  </p>
+                  <p 
+  className="text-gray-300 leading-relaxed"
+  dangerouslySetInnerHTML={{ 
+    __html: currentLesson.description.replace(
+      /(https?:\/\/[^\s]+)/g, 
+      '<a href="$1" target="_blank" rel="noopener noreferrer" class="text-netflix-primary underline">$1</a>'
+    )
+  }}
+></p>
                 </CardContent>
               </Card>
             )}
