@@ -145,6 +145,8 @@ const CoursePage = () => {
                 
                 <h1 className="text-xl font-bold text-white mb-2">{course.title}</h1>
                 <p className="text-gray-400 text-sm mb-4">{course.description}</p>
+                <p dangerouslySetInnerHTML={{ __html: lesson.description.replace(/(https?:\/\/[^\s]+)/g, '<a href="$1" target="_blank" rel="noopener noreferrer">$1</a>') }}></p>
+
                 
                 <div className="space-y-3">
                   <div className="flex items-center gap-2 text-sm text-gray-400">
