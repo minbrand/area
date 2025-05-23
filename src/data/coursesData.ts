@@ -24,7 +24,7 @@ export const coursesData: Record<string, CourseData> = {
   'javascript-fundamentals': {
     id: 'javascript-fundamentals',
     title: 'Páginas de vendas',
-    description: 'Aprenda os fundamentos do JavaScript moderno com exemplos práticos e projetos reais.',
+    description: 'Veja como eu faço páginas de vendas de alta velocidade e que convertem muito',
     instructor: 'Jota',
     duration: '1h 56min',
     students: 847,
