@@ -54,7 +54,7 @@ export const coursesData: Record<string, CourseData> = {
         videoUrl: 'https://www.youtube.com/embed/HdeZxUNY3tE',
         description: 'Veja como hospedar sua página de forma grátis a sua página na internet <b>Sem precisar pagar hospedagem</b> e deixando a sua página 10x mais rápida que o wordpress,
         completed: false
-      }
+      },
     ]
   },
   'react-masterclass': {
