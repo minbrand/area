@@ -52,7 +52,7 @@ export const coursesData: Record<string, CourseData> = {
         title: 'Hospedando de graça',
         duration: '09:06',
         videoUrl: 'https://www.youtube.com/embed/HdeZxUNY3tE',
-        description: 'Veja como hospedar sua página de forma grátis e deixando a sua página 10x mais rápida que o wordpress'
+        description: 'Veja como hospedar sua página de forma grátis e deixando a sua página 10x mais rápida que o wordpress',
         completed: false
       }
     ]
