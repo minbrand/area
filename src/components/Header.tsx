@@ -29,16 +29,16 @@ const Header = () => {
           </div>
           <div>
             <h1 className="text-xl font-bold text-white group-hover:text-netflix-primary transition-colors">
-              EduPlatform
+              minbrand
             </h1>
-            <p className="text-xs text-gray-400">Área de Membros</p>
+            <p className="text-xs text-gray-400">Curso</p>
           </div>
         </div>
 
         <div className="flex items-center gap-4">
           <div className="flex items-center gap-2 text-gray-300">
             <User className="w-4 h-4" />
-            <span className="text-sm">cliente513@minbrand.com</span>
+            <span className="text-sm">cliente513</span>
           </div>
           
           <Button
