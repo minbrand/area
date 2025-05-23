@@ -1,3 +1,7 @@
+# Área de membros teste
+
+
+
 # Welcome to your Lovable project
 
 ## Project info
