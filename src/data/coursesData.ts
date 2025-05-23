@@ -52,23 +52,7 @@ export const coursesData: Record<string, CourseData> = {
         title: 'Hospedando de graça',
         duration: '09:06',
         videoUrl: 'https://www.youtube.com/embed/HdeZxUNY3tE',
-        description: 'Veja como hospedar sua página de forma grátis a sua página na internet <b>Sem precisar pagar hospedagem</b> e deixando a sua página 10x mais rápida que o wordpress,
-        completed: false
-      },
-       {
-        id: '4',
-        title: 'Arrays e Objetos',
-        duration: '35:20',
-        videoUrl: 'https://www.youtube.com/embed/7W4pQQ20nJg',
-        description: 'Trabalhe com estruturas de dados complexas: arrays e objetos.',
-        completed: false
-      },
-      {
-        id: '5',
-        title: 'DOM Manipulation',
-        duration: '42:10',
-        videoUrl: 'https://www.youtube.com/embed/5fb2aPlgoys',
-        description: 'Aprenda a manipular o DOM para criar interfaces interativas.',
+        description: 'Veja como hospedar sua página de forma grátis e deixando a sua página 10x mais rápida que o wordpress'
         completed: false
       }
     ]
