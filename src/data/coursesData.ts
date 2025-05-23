@@ -25,18 +25,18 @@ export const coursesData: Record<string, CourseData> = {
     id: 'javascript-fundamentals',
     title: 'JavaScript Fundamentals',
     description: 'Aprenda os fundamentos do JavaScript moderno com exemplos práticos e projetos reais.',
-    instructor: 'João Silva',
-    duration: '8h 30min',
-    students: 2847,
-    thumbnail: 'https://images.unsplash.com/photo-1627398242454-45a1465c2479?w=400&h=225&fit=crop',
-    category: 'Programação',
+    instructor: 'Jota',
+    duration: '1h 56min',
+    students: 847,
+    thumbnail: 'https://minbrand.com/img/pg-vendas.webp',
+    category: 'Marketing digital',
     lessons: [
       {
         id: '1',
-        title: 'Introdução ao JavaScript',
-        duration: '15:30',
-        videoUrl: 'https://www.youtube.com/embed/PkZNo7MFNFg',
-        description: 'Uma introdução completa ao JavaScript e sua importância no desenvolvimento web.',
+        title: 'Criando página com Bee-free',
+        duration: '56:21',
+        videoUrl: 'https://www.youtube.com/embed/479rtxoUNDQ',
+        description: 'Criando do zero uma página de vendas',
         completed: false
       },
       {
