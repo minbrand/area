@@ -18,11 +18,11 @@ interface Course {
 const courses: Course[] = [
   {
     id: 'javascript-fundamentals',
-    title: 'JavaScript Fundamentals',
-    description: 'Aprenda os fundamentos do JavaScript moderno com exemplos práticos.',
-    duration: '8h 30min',
-    students: 2847,
-    thumbnail: 'https://images.unsplash.com/photo-1627398242454-45a1465c2479?w=400&h=225&fit=crop',
+    title: 'Página de vendas lucrativas',
+    description: 'Aprenda a criar páginas de vendas de alta conversão',
+    duration: '1h 30min',
+    students: 847,
+    thumbnail: 'https://minbrand.com/img/pg-vendas.webp',
     category: 'Programação'
   },
   {
