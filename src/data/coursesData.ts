@@ -49,10 +49,10 @@ export const coursesData: Record<string, CourseData> = {
       },
       {
         id: '3',
-        title: 'Funções e Escopo',
+        title: 'Hospedando de graça',
         duration: '28:15',
-        videoUrl: 'https://www.youtube.com/embed/N8ap4k_1QEQ',
-        description: 'Entenda como criar e usar funções, além dos conceitos de escopo em JavaScript.',
+        videoUrl: 'https://www.youtube.com/embed/HdeZxUNY3tE',
+        description: 'Veja como hospedar sua página de forma grátis a sua página na internet <b>Sem precisar pagar hospedagem</b> e deixando a sua página 10x mais rápida que o <a href="#">wordpress</a>',
         completed: false
       },
       {
