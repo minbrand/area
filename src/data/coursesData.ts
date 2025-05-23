@@ -57,10 +57,18 @@ export const coursesData: Record<string, CourseData> = {
       },
        {
         id: '4',
-        title: 'Hooks Essenciais',
-        duration: '38:20',
-        videoUrl: 'https://www.youtube.com/embed/TNhaISOUy6Q',
-        description: 'Domine os hooks fundamentais: useState, useEffect e mais.',
+        title: 'Arrays e Objetos',
+        duration: '35:20',
+        videoUrl: 'https://www.youtube.com/embed/7W4pQQ20nJg',
+        description: 'Trabalhe com estruturas de dados complexas: arrays e objetos.',
+        completed: false
+      },
+      {
+        id: '5',
+        title: 'DOM Manipulation',
+        duration: '42:10',
+        videoUrl: 'https://www.youtube.com/embed/5fb2aPlgoys',
+        description: 'Aprenda a manipular o DOM para criar interfaces interativas.',
         completed: false
       }
     ]
