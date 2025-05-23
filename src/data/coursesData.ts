@@ -55,6 +55,14 @@ export const coursesData: Record<string, CourseData> = {
         description: 'Veja como hospedar sua página de forma grátis a sua página na internet <b>Sem precisar pagar hospedagem</b> e deixando a sua página 10x mais rápida que o wordpress,
         completed: false
       },
+       {
+        id: '4',
+        title: 'Hooks Essenciais',
+        duration: '38:20',
+        videoUrl: 'https://www.youtube.com/embed/TNhaISOUy6Q',
+        description: 'Domine os hooks fundamentais: useState, useEffect e mais.',
+        completed: false
+      }
     ]
   },
   'react-masterclass': {
