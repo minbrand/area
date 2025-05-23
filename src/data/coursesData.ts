@@ -41,10 +41,10 @@ export const coursesData: Record<string, CourseData> = {
       },
       {
         id: '2',
-        title: 'Variáveis e Tipos de Dados',
-        duration: '22:45',
-        videoUrl: 'https://www.youtube.com/embed/JaMCxVWtW58',
-        description: 'Aprenda sobre variáveis, tipos de dados primitivos e como trabalhar com eles.',
+        title: 'Modificando a página de vendas',
+        duration: '05:14',
+        videoUrl: 'https://www.youtube.com/embed/BaJHLNBzXAQ',
+        description: 'Veja como modificar e remover a marca da beefree dos seus templates de páginas',
         completed: false
       },
       {
