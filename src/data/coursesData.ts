@@ -26,7 +26,7 @@ export const coursesData: Record<string, CourseData> = {
     title: 'Páginas de vendas',
     description: 'Veja como eu faço páginas de vendas de alta velocidade e que convertem muito',
     instructor: 'Jota',
-    duration: '1h 56min',
+    duration: '1h 16min',
     students: 847,
     thumbnail: 'https://minbrand.com/img/pg-vendas.webp',
     category: 'Marketing digital',
